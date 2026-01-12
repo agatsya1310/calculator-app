@@ -128,7 +128,7 @@
                 android:text="9" />
 
             <Button
-                android:id="@+id/btnDivision"
+                android:id="@+id/btnMultiplication"
                 style="@style/CalculatorButton"
                 android:layout_rowWeight="1"
                 android:layout_columnWeight="1"
